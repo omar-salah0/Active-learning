@@ -3,7 +3,7 @@ Here, we compare active learning vs passive learning using CNN models and diffre
 
 # Datasets:
 
-1.Minst Fashion Dataset 
+1. Minst Fashion Dataset 
 2. CIFAR-10 Dataset
 3. Imbalanced Minst Fashion Dataset 
 
